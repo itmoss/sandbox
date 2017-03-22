@@ -1,7 +1,6 @@
 ''' 
 
 @Describe :
-
 To print example as like above, implement binary tree follow to these skeletons.
 
 I will use this way that Levelorder-Traverse, because it is easy to verify in a short time and implement also.
